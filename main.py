@@ -24,7 +24,7 @@ keywords = ['#twitterdev']
 
 query_params = {
     'query': keywords,
-    'tweet.fields': tweet_fields[3:],
+    'tweet.fields': tweet_fields[2:],
     'max_results': '10'
 }
 
